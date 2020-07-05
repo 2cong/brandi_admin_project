@@ -9,7 +9,7 @@
 - develop period : '20.05.25. ~ '20.06.18.
 
 ## Demo
-[<img width="1757" alt="스크린샷 2020-07-06 오전 1 07 26" src="https://user-images.githubusercontent.com/60612551/86536765-111c8b80-bf25-11ea-8dcd-3b2b75493d80.png">
+[<img width="1447" alt="스크린샷 2020-07-06 오전 1 11 19" src="https://user-images.githubusercontent.com/60612551/86536819-9c961c80-bf25-11ea-910f-425691b07b5c.png">
 ](https://youtu.be/nMK2Z9XvF78)
 ## DataBase Modeling
 ![DB](https://images.velog.io/images/2cong/post/1acf1e65-a4ec-4302-a49d-2a72e5ae33de/image.png)
